@@ -11,7 +11,7 @@ __git clone__ [URL]
 
 - Verificando o Status do Repositório: __git status__
   
-- Adicionando Arquivos ao Staging: __git add .__
+- Adicionando todos os Arquivos ao Staging: __git add .__
   
 - Comitando Alterações: __git commit -m "Mensagem do commit"__
   
@@ -23,3 +23,9 @@ Configurar Nome e E-mail: __git config --global user.name "Seu Nome"__ || __git 
 - Enviando Alterações para o GitHub: __git push -u origin main__
   
 - No terminal, abra o VSCode: __code .__
+
+- Verificar Status: __git status__
+  
+- Resetar Staging: __git reset__
+
+
